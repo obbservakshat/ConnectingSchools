@@ -61,12 +61,12 @@ session_start();
                       <a href="../about.html">About Us</a>
                   </li>-->
                   <li>
-                              <a href="../addevents/addevents.php">Create Event</a>
+                              <a href="../addevents/form.php">Create Event</a>
                   </li>
                   <li>
                               <a href="../history/history.php">History</a>
                   </li>
-                  
+
                   <!--<li>
                       <a href="../contact.html">Contact Us</a>
                   </li>-->

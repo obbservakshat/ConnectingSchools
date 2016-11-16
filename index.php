@@ -162,32 +162,32 @@ session_start();
                 <h2 class="page-header">Our Events</h2>
             </div>
             <div class="col-md-4 col-sm-6">
-                <a href="#">
+                <a href="portfolio-item.html">
                     <img class="img-responsive img-portfolio img-hover" src="images/g1.jpg" alt="">
                 </a>
             </div>
             <div class="col-md-4 col-sm-6">
-                <a href="#">
+                <a href="portfolio-item.html">
                     <img class="img-responsive img-portfolio img-hover" src="images/g2.jpg" alt="">
                 </a>
             </div>
             <div class="col-md-4 col-sm-6">
-                <a href="#">
+                <a href="portfolio-item.html">
                     <img class="img-responsive img-portfolio img-hover" src="images/g3.jpg" alt="">
                 </a>
             </div>
             <div class="col-md-4 col-sm-6">
-                <a href="#">
+                <a href="portfolio-item.html">
                     <img class="img-responsive img-portfolio img-hover" src="images/g4.jpg" alt="">
                 </a>
             </div>
             <div class="col-md-4 col-sm-6">
-                <a href="#">
+                <a href="portfolio-item.html">
                     <img class="img-responsive img-portfolio img-hover" src="images/g5.jpg" alt="">
                 </a>
             </div>
             <div class="col-md-4 col-sm-6">
-                <a href="#">
+                <a href="portfolio-item.html">
                     <img class="img-responsive img-portfolio img-hover" src="images/g6.jpg" alt="">
                 </a>
             </div>

@@ -5,10 +5,7 @@ session_start();
 <html>
 <body>
 
-<?php
-// Echo session variables that were set on previous page
-echo "Welcome " . $_SESSION["uname"] . ".<br>";
-?>
+ <p>Hello stupid</p>
 
 </body>
 </html>
